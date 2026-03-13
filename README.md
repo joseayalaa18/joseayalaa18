@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**joseayalaa18/joseayalaa18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://static.wikia.nocookie.net/shingeki-no-kyojin/images/2/22/Levi_Ackerman_854_%28Anime%29.png/revision/latest/scale-to-width/360?cb=20250722053005&path-prefix=es)
+# Hola, soy José Ayala
 
-Here are some ideas to get you started:
+🎓 Técnico Universitario en Sistemas de Información  
+📍 Formosa, Argentina  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Tecnologías que Uso
+
+- PHP
+- HTML
+- CSS
+- Bootstrap
+- Python (básico)
+
+---
+
+##  Herramientas que Uso
+
+- GitHub
+- Figma
+- Trello
+- Canva
+
+---
+
+## Actualmente
+
+- Terminando la Licenciatura en Sistemas de Información
+- Subiendo proyectos académicos
+
+---
+
+## Contacto
+
+📧 jose18ayala05@gmail.com  
+💻 https://github.com/joseayalaa18
+
